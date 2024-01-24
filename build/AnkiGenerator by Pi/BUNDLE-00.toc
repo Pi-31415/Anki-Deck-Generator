@@ -1,0 +1,3 @@
+([('AnkiGenerator by Pi',
+   '/Users/pi/Desktop/AnkiGen/dist/AnkiGenerator by Pi',
+   'EXECUTABLE')],)
